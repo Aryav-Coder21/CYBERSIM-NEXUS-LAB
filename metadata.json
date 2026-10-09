@@ -1,0 +1,6 @@
+{
+  "name": "CYBERSIM // NEXUS LAB",
+  "description": "Interactive cybersecurity simulation and defense lab demonstrating phishing, DDoS, brute-force entropy, and SQL injection in a safe educational environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
